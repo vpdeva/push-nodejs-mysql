@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-MySQL-push-notifications",
+  "version": "1.0.0",
+  "description": "nodejs-MySQL-push-notifications",
+  "main": "server.js",
+  "dependencies": {
+    "mysql": "~2.5.4",
+    "socket.io": "~1.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vpdeva/push-notifications-nodejs-mysql.git"
+  },
+  "author": "Gianluca Guarini",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/vpdeva/push-notifications-nodejs-mysql.git/issues"
+  },
+  "homepage": "https://github.com/vpdeva/push-notifications-nodejs-mysql.git"
+}
