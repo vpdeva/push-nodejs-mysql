@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-MySQL-push-notifications",
+  "name": "nodejs-MySQL-push-websockets",
   "version": "1.0.0",
   "description": "nodejs-MySQL-push-notifications",
   "main": "server.js",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/vpdeva/push-notifications-nodejs-mysql.git"
+    "url": "git://github.com/vpdeva/push-nodejs-mysql.git"
   },
   "author": "Gianluca Guarini",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/vpdeva/push-notifications-nodejs-mysql.git/issues"
+    "url": "https://github.com/vpdeva/push-nodejs-mysql.git/issues"
   },
-  "homepage": "https://github.com/vpdeva/push-notifications-nodejs-mysql.git"
+  "homepage": "https://github.com/vpdeva/push-nodejs-mysql.gitt"
 }
